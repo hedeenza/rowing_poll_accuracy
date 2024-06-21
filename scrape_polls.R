@@ -1,4 +1,4 @@
-# Only Pulling CRCA polls and RankOar polls from approximatley the same time in the year
+# Only Pulling CRCA polls and RankOar polls from approximately the same time in the year
 
 # CRCA Polls from early April to Mid May 
 # dropped April 12, 2023 because of hidden info in the page that made it break.
