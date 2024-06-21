@@ -1,0 +1,1262 @@
+"","Rank","Team","Points","ID"
+"1","0","0","0",0
+"2","Rank","School Name","Points",986
+"3","1","University of Texas – Austin","544",986
+"4","2","Stanford University","535",986
+"5","3","University of Tennessee","533",986
+"6","4","Princeton University","529",986
+"7","5","Brown University","520",986
+"8","6","University of California – Berkley","514",986
+"9","7","Yale University","511",986
+"10","8","University of Washington","496",986
+"11","9","University of Michigan","491",986
+"12","10","University of Pennsylvania","486",986
+"13","11","Syracuse University","485",986
+"14","12","Ohio State University","484",986
+"15","13","Rutgers University","473",986
+"16","14","Indiana University","470",986
+"17","15","Duke University","468",986
+"18","16","Harvard-Radcliffe","448",986
+"19","17","University of Virginia","446",986
+"20","18","University of Alabama","436",986
+"21","18","Columbia University","436",986
+"22","20","University of Miami","419",986
+"23","21","Gonzaga University","414",986
+"24","22","University of California – Los Angeles","404",986
+"25","23","Washington State University","402",986
+"26","24","University of Minnesota","398",986
+"27","25","University of Central Florida","397",986
+"28","26","Oregon State University","395",986
+"29","27","Northeastern University","389",986
+"30","28","University of Southern California","385",986
+"31","29","University of Iowa","379",986
+"32","29","Clemson University","379",986
+"33","31","University of Notre Dame","378",986
+"34","32","Boston University","367",986
+"35","33","Dartmouth College","354",986
+"36","34","Massachusetts Institute of Technology","337",986
+"37","35","University of Wisconsin","331",986
+"38","36","University of Rhode Island","330",986
+"39","37","Southern Methodist University","319",986
+"40","38","University of Tulsa","316",986
+"41","39","University of Oklahoma","312",986
+"42","40","Michigan State University","306",986
+"43","41","University of Louisville","296",986
+"44","41","University of Kansas","296",986
+"45","43","Boston College","294",986
+"46","44","George Washington University","292",986
+"47","45","United States Naval Academy","288",986
+"48","46","University of California – San Diego","287",986
+"49","47","University of North Carolina at Chapel Hill","281",986
+"50","48","Kansas State University","259",986
+"51","48","University of San Diego","259",986
+"52","50","Jacksonville University","251",986
+"53","51","University of Massachusetts – Amherst","249",986
+"54","52","Georgetown University","248",986
+"55","53","California State University – Sacramento","240",986
+"56","54","Cornell University","236",986
+"57","55","College of the Holy Cross","233",986
+"58","56","Bucknell University","225",986
+"59","57","Sacred Heart University","202",986
+"60","58","Fordham University","195",986
+"61","59","Temple University","193",986
+"62","60","Saint Joseph's University","187",986
+"63","60","Drexel University","187",986
+"64","62","Loyola Marymount University","177",986
+"65","63","University of Connecticut","162",986
+"66","64","La Salle University","158",986
+"67","65","West Virginia University","154",986
+"68","66","Duquesne University","148",986
+"69","67","University of Delaware","138",986
+"70","67","Marist College","138",986
+"71","69","University of Portland","135",986
+"72","70","Fairfield University","132",986
+"73","71","Old Dominion University","126",986
+"74","72","Villanova University","124",986
+"75","73","Stetson University","123",986
+"76","74","Lehigh University","120",986
+"77","75","Creighton University","116",986
+"78","75","Eastern Michigan University","116",986
+"79","77","Colgate University","109",986
+"80","78","Saint Mary’s College of California","104",986
+"81","79","Canisius College","84",986
+"82","80","Robert Morris University – Pennsylvania","69",986
+"83","80","George Mason University","69",986
+"84","82","Loyola University Maryland","65",986
+"85","83","Seattle University","64",986
+"86","84","University of Dayton","53",986
+"87","85","Merrimack College","50",986
+"88","86","Iona College","45",986
+"89","87","Drake University","30",986
+"90","88","Santa Clara University","25",986
+"91","89","Manhattan College","5",986
+"92","Rank","School Name","Points",980
+"93","1","University of Texas – Austin","544",980
+"94","2","Stanford University","535",980
+"95","3","University of Tennessee","533",980
+"96","4","Princeton University","529",980
+"97","5","Brown University","520",980
+"98","6","University of California – Berkley","514",980
+"99","7","Yale University","511",980
+"100","8","University of Washington","496",980
+"101","9","University of Michigan","491",980
+"102","10","University of Pennsylvania","486",980
+"103","11","Syracuse University","485",980
+"104","12","Ohio State University","484",980
+"105","13","Rutgers University","473",980
+"106","14","Indiana University","470",980
+"107","15","Duke University","468",980
+"108","16","Harvard-Radcliffe","448",980
+"109","17","University of Virginia","446",980
+"110","18","University of Alabama","436",980
+"111","18","Columbia University","436",980
+"112","20","University of Miami","419",980
+"113","21","Gonzaga University","414",980
+"114","22","University of California – Los Angeles","404",980
+"115","23","Washington State University","402",980
+"116","24","University of Minnesota","398",980
+"117","25","University of Central Florida","397",980
+"118","26","Oregon State University","395",980
+"119","27","Northeastern University","389",980
+"120","28","University of Southern California","385",980
+"121","29","University of Iowa","379",980
+"122","29","Clemson University","379",980
+"123","31","University of Notre Dame","378",980
+"124","32","Boston University","367",980
+"125","33","Dartmouth College","354",980
+"126","34","Massachusetts Institute of Technology","337",980
+"127","35","University of Wisconsin","331",980
+"128","36","University of Rhode Island","330",980
+"129","37","Southern Methodist University","319",980
+"130","38","University of Tulsa","316",980
+"131","39","University of Oklahoma","312",980
+"132","40","Michigan State University","306",980
+"133","41","University of Louisville","296",980
+"134","41","University of Kansas","296",980
+"135","43","Boston College","294",980
+"136","44","George Washington University","292",980
+"137","45","United States Naval Academy","288",980
+"138","46","University of California – San Diego","287",980
+"139","47","University of North Carolina at Chapel Hill","281",980
+"140","48","Kansas State University","259",980
+"141","48","University of San Diego","259",980
+"142","50","Jacksonville University","251",980
+"143","51","University of Massachusetts – Amherst","249",980
+"144","52","Georgetown University","248",980
+"145","53","California State University – Sacramento","240",980
+"146","54","Cornell University","236",980
+"147","55","College of the Holy Cross","233",980
+"148","56","Bucknell University","225",980
+"149","57","Sacred Heart University","202",980
+"150","58","Fordham University","195",980
+"151","59","Temple University","193",980
+"152","60","Saint Joseph's University","187",980
+"153","60","Drexel University","187",980
+"154","62","Loyola Marymount University","177",980
+"155","63","University of Connecticut","162",980
+"156","64","La Salle University","158",980
+"157","65","West Virginia University","154",980
+"158","66","Duquesne University","148",980
+"159","67","University of Delaware","138",980
+"160","67","Marist College","138",980
+"161","69","University of Portland","135",980
+"162","70","Fairfield University","132",980
+"163","71","Old Dominion University","126",980
+"164","72","Villanova University","124",980
+"165","73","Stetson University","123",980
+"166","74","Lehigh University","120",980
+"167","75","Creighton University","116",980
+"168","75","Eastern Michigan University","116",980
+"169","77","Colgate University","109",980
+"170","78","Saint Mary’s College of California","104",980
+"171","79","Canisius College","84",980
+"172","80","Robert Morris University – Pennsylvania","69",980
+"173","80","George Mason University","69",980
+"174","82","Loyola University Maryland","65",980
+"175","83","Seattle University","64",980
+"176","84","University of Dayton","53",980
+"177","85","Merrimack College","50",980
+"178","86","Iona College","45",980
+"179","87","Drake University","30",980
+"180","88","Santa Clara University","25",980
+"181","89","Manhattan College","5",980
+"182","Rank","School Name","Points",968
+"183","1","University of Texas – Austin","544",968
+"184","2","Stanford University","535",968
+"185","3","University of Tennessee","533",968
+"186","4","Princeton University","529",968
+"187","5","Brown University","520",968
+"188","6","University of California – Berkley","514",968
+"189","7","Yale University","511",968
+"190","8","University of Washington","496",968
+"191","9","University of Michigan","491",968
+"192","10","University of Pennsylvania","486",968
+"193","11","Syracuse University","485",968
+"194","12","Ohio State University","484",968
+"195","13","Rutgers University","473",968
+"196","14","Indiana University","470",968
+"197","15","Duke University","468",968
+"198","16","Harvard-Radcliffe","448",968
+"199","17","University of Virginia","446",968
+"200","18","University of Alabama","436",968
+"201","18","Columbia University","436",968
+"202","20","University of Miami","419",968
+"203","21","Gonzaga University","414",968
+"204","22","University of California – Los Angeles","404",968
+"205","23","Washington State University","402",968
+"206","24","University of Minnesota","398",968
+"207","25","University of Central Florida","397",968
+"208","26","Oregon State University","395",968
+"209","27","Northeastern University","389",968
+"210","28","University of Southern California","385",968
+"211","29","University of Iowa","379",968
+"212","29","Clemson University","379",968
+"213","31","University of Notre Dame","378",968
+"214","32","Boston University","367",968
+"215","33","Dartmouth College","354",968
+"216","34","Massachusetts Institute of Technology","337",968
+"217","35","University of Wisconsin","331",968
+"218","36","University of Rhode Island","330",968
+"219","37","Southern Methodist University","319",968
+"220","38","University of Tulsa","316",968
+"221","39","University of Oklahoma","312",968
+"222","40","Michigan State University","306",968
+"223","41","University of Louisville","296",968
+"224","41","University of Kansas","296",968
+"225","43","Boston College","294",968
+"226","44","George Washington University","292",968
+"227","45","United States Naval Academy","288",968
+"228","46","University of California – San Diego","287",968
+"229","47","University of North Carolina at Chapel Hill","281",968
+"230","48","Kansas State University","259",968
+"231","48","University of San Diego","259",968
+"232","50","Jacksonville University","251",968
+"233","51","University of Massachusetts – Amherst","249",968
+"234","52","Georgetown University","248",968
+"235","53","California State University – Sacramento","240",968
+"236","54","Cornell University","236",968
+"237","55","College of the Holy Cross","233",968
+"238","56","Bucknell University","225",968
+"239","57","Sacred Heart University","202",968
+"240","58","Fordham University","195",968
+"241","59","Temple University","193",968
+"242","60","Saint Joseph's University","187",968
+"243","60","Drexel University","187",968
+"244","62","Loyola Marymount University","177",968
+"245","63","University of Connecticut","162",968
+"246","64","La Salle University","158",968
+"247","65","West Virginia University","154",968
+"248","66","Duquesne University","148",968
+"249","67","University of Delaware","138",968
+"250","67","Marist College","138",968
+"251","69","University of Portland","135",968
+"252","70","Fairfield University","132",968
+"253","71","Old Dominion University","126",968
+"254","72","Villanova University","124",968
+"255","73","Stetson University","123",968
+"256","74","Lehigh University","120",968
+"257","75","Creighton University","116",968
+"258","75","Eastern Michigan University","116",968
+"259","77","Colgate University","109",968
+"260","78","Saint Mary’s College of California","104",968
+"261","79","Canisius College","84",968
+"262","80","Robert Morris University – Pennsylvania","69",968
+"263","80","George Mason University","69",968
+"264","82","Loyola University Maryland","65",968
+"265","83","Seattle University","64",968
+"266","84","University of Dayton","53",968
+"267","85","Merrimack College","50",968
+"268","86","Iona College","45",968
+"269","87","Drake University","30",968
+"270","88","Santa Clara University","25",968
+"271","89","Manhattan College","5",968
+"272","Rank","School Name","Points",964
+"273","1","University of Texas – Austin","544",964
+"274","2","Stanford University","535",964
+"275","3","University of Tennessee","533",964
+"276","4","Princeton University","529",964
+"277","5","Brown University","520",964
+"278","6","University of California – Berkley","514",964
+"279","7","Yale University","511",964
+"280","8","University of Washington","496",964
+"281","9","University of Michigan","491",964
+"282","10","University of Pennsylvania","486",964
+"283","11","Syracuse University","485",964
+"284","12","Ohio State University","484",964
+"285","13","Rutgers University","473",964
+"286","14","Indiana University","470",964
+"287","15","Duke University","468",964
+"288","16","Harvard-Radcliffe","448",964
+"289","17","University of Virginia","446",964
+"290","18","University of Alabama","436",964
+"291","18","Columbia University","436",964
+"292","20","University of Miami","419",964
+"293","21","Gonzaga University","414",964
+"294","22","University of California – Los Angeles","404",964
+"295","23","Washington State University","402",964
+"296","24","University of Minnesota","398",964
+"297","25","University of Central Florida","397",964
+"298","26","Oregon State University","395",964
+"299","27","Northeastern University","389",964
+"300","28","University of Southern California","385",964
+"301","29","University of Iowa","379",964
+"302","29","Clemson University","379",964
+"303","31","University of Notre Dame","378",964
+"304","32","Boston University","367",964
+"305","33","Dartmouth College","354",964
+"306","34","Massachusetts Institute of Technology","337",964
+"307","35","University of Wisconsin","331",964
+"308","36","University of Rhode Island","330",964
+"309","37","Southern Methodist University","319",964
+"310","38","University of Tulsa","316",964
+"311","39","University of Oklahoma","312",964
+"312","40","Michigan State University","306",964
+"313","41","University of Louisville","296",964
+"314","41","University of Kansas","296",964
+"315","43","Boston College","294",964
+"316","44","George Washington University","292",964
+"317","45","United States Naval Academy","288",964
+"318","46","University of California – San Diego","287",964
+"319","47","University of North Carolina at Chapel Hill","281",964
+"320","48","Kansas State University","259",964
+"321","48","University of San Diego","259",964
+"322","50","Jacksonville University","251",964
+"323","51","University of Massachusetts – Amherst","249",964
+"324","52","Georgetown University","248",964
+"325","53","California State University – Sacramento","240",964
+"326","54","Cornell University","236",964
+"327","55","College of the Holy Cross","233",964
+"328","56","Bucknell University","225",964
+"329","57","Sacred Heart University","202",964
+"330","58","Fordham University","195",964
+"331","59","Temple University","193",964
+"332","60","Saint Joseph's University","187",964
+"333","60","Drexel University","187",964
+"334","62","Loyola Marymount University","177",964
+"335","63","University of Connecticut","162",964
+"336","64","La Salle University","158",964
+"337","65","West Virginia University","154",964
+"338","66","Duquesne University","148",964
+"339","67","University of Delaware","138",964
+"340","67","Marist College","138",964
+"341","69","University of Portland","135",964
+"342","70","Fairfield University","132",964
+"343","71","Old Dominion University","126",964
+"344","72","Villanova University","124",964
+"345","73","Stetson University","123",964
+"346","74","Lehigh University","120",964
+"347","75","Creighton University","116",964
+"348","75","Eastern Michigan University","116",964
+"349","77","Colgate University","109",964
+"350","78","Saint Mary’s College of California","104",964
+"351","79","Canisius College","84",964
+"352","80","Robert Morris University – Pennsylvania","69",964
+"353","80","George Mason University","69",964
+"354","82","Loyola University Maryland","65",964
+"355","83","Seattle University","64",964
+"356","84","University of Dayton","53",964
+"357","85","Merrimack College","50",964
+"358","86","Iona College","45",964
+"359","87","Drake University","30",964
+"360","88","Santa Clara University","25",964
+"361","89","Manhattan College","5",964
+"362","Rank","School Name","Points",954
+"363","1","University of Texas – Austin","544",954
+"364","2","Stanford University","535",954
+"365","3","University of Tennessee","533",954
+"366","4","Princeton University","529",954
+"367","5","Brown University","520",954
+"368","6","University of California – Berkley","514",954
+"369","7","Yale University","511",954
+"370","8","University of Washington","496",954
+"371","9","University of Michigan","491",954
+"372","10","University of Pennsylvania","486",954
+"373","11","Syracuse University","485",954
+"374","12","Ohio State University","484",954
+"375","13","Rutgers University","473",954
+"376","14","Indiana University","470",954
+"377","15","Duke University","468",954
+"378","16","Harvard-Radcliffe","448",954
+"379","17","University of Virginia","446",954
+"380","18","University of Alabama","436",954
+"381","18","Columbia University","436",954
+"382","20","University of Miami","419",954
+"383","21","Gonzaga University","414",954
+"384","22","University of California – Los Angeles","404",954
+"385","23","Washington State University","402",954
+"386","24","University of Minnesota","398",954
+"387","25","University of Central Florida","397",954
+"388","26","Oregon State University","395",954
+"389","27","Northeastern University","389",954
+"390","28","University of Southern California","385",954
+"391","29","University of Iowa","379",954
+"392","29","Clemson University","379",954
+"393","31","University of Notre Dame","378",954
+"394","32","Boston University","367",954
+"395","33","Dartmouth College","354",954
+"396","34","Massachusetts Institute of Technology","337",954
+"397","35","University of Wisconsin","331",954
+"398","36","University of Rhode Island","330",954
+"399","37","Southern Methodist University","319",954
+"400","38","University of Tulsa","316",954
+"401","39","University of Oklahoma","312",954
+"402","40","Michigan State University","306",954
+"403","41","University of Louisville","296",954
+"404","41","University of Kansas","296",954
+"405","43","Boston College","294",954
+"406","44","George Washington University","292",954
+"407","45","United States Naval Academy","288",954
+"408","46","University of California – San Diego","287",954
+"409","47","University of North Carolina at Chapel Hill","281",954
+"410","48","Kansas State University","259",954
+"411","48","University of San Diego","259",954
+"412","50","Jacksonville University","251",954
+"413","51","University of Massachusetts – Amherst","249",954
+"414","52","Georgetown University","248",954
+"415","53","California State University – Sacramento","240",954
+"416","54","Cornell University","236",954
+"417","55","College of the Holy Cross","233",954
+"418","56","Bucknell University","225",954
+"419","57","Sacred Heart University","202",954
+"420","58","Fordham University","195",954
+"421","59","Temple University","193",954
+"422","60","Saint Joseph's University","187",954
+"423","60","Drexel University","187",954
+"424","62","Loyola Marymount University","177",954
+"425","63","University of Connecticut","162",954
+"426","64","La Salle University","158",954
+"427","65","West Virginia University","154",954
+"428","66","Duquesne University","148",954
+"429","67","University of Delaware","138",954
+"430","67","Marist College","138",954
+"431","69","University of Portland","135",954
+"432","70","Fairfield University","132",954
+"433","71","Old Dominion University","126",954
+"434","72","Villanova University","124",954
+"435","73","Stetson University","123",954
+"436","74","Lehigh University","120",954
+"437","75","Creighton University","116",954
+"438","75","Eastern Michigan University","116",954
+"439","77","Colgate University","109",954
+"440","78","Saint Mary’s College of California","104",954
+"441","79","Canisius College","84",954
+"442","80","Robert Morris University – Pennsylvania","69",954
+"443","80","George Mason University","69",954
+"444","82","Loyola University Maryland","65",954
+"445","83","Seattle University","64",954
+"446","84","University of Dayton","53",954
+"447","85","Merrimack College","50",954
+"448","86","Iona College","45",954
+"449","87","Drake University","30",954
+"450","88","Santa Clara University","25",954
+"451","89","Manhattan College","5",954
+"452","Rank","School Name","Points",946
+"453","1","University of Texas – Austin","544",946
+"454","2","Stanford University","535",946
+"455","3","University of Tennessee","533",946
+"456","4","Princeton University","529",946
+"457","5","Brown University","520",946
+"458","6","University of California – Berkley","514",946
+"459","7","Yale University","511",946
+"460","8","University of Washington","496",946
+"461","9","University of Michigan","491",946
+"462","10","University of Pennsylvania","486",946
+"463","11","Syracuse University","485",946
+"464","12","Ohio State University","484",946
+"465","13","Rutgers University","473",946
+"466","14","Indiana University","470",946
+"467","15","Duke University","468",946
+"468","16","Harvard-Radcliffe","448",946
+"469","17","University of Virginia","446",946
+"470","18","University of Alabama","436",946
+"471","18","Columbia University","436",946
+"472","20","University of Miami","419",946
+"473","21","Gonzaga University","414",946
+"474","22","University of California – Los Angeles","404",946
+"475","23","Washington State University","402",946
+"476","24","University of Minnesota","398",946
+"477","25","University of Central Florida","397",946
+"478","26","Oregon State University","395",946
+"479","27","Northeastern University","389",946
+"480","28","University of Southern California","385",946
+"481","29","University of Iowa","379",946
+"482","29","Clemson University","379",946
+"483","31","University of Notre Dame","378",946
+"484","32","Boston University","367",946
+"485","33","Dartmouth College","354",946
+"486","34","Massachusetts Institute of Technology","337",946
+"487","35","University of Wisconsin","331",946
+"488","36","University of Rhode Island","330",946
+"489","37","Southern Methodist University","319",946
+"490","38","University of Tulsa","316",946
+"491","39","University of Oklahoma","312",946
+"492","40","Michigan State University","306",946
+"493","41","University of Louisville","296",946
+"494","41","University of Kansas","296",946
+"495","43","Boston College","294",946
+"496","44","George Washington University","292",946
+"497","45","United States Naval Academy","288",946
+"498","46","University of California – San Diego","287",946
+"499","47","University of North Carolina at Chapel Hill","281",946
+"500","48","Kansas State University","259",946
+"501","48","University of San Diego","259",946
+"502","50","Jacksonville University","251",946
+"503","51","University of Massachusetts – Amherst","249",946
+"504","52","Georgetown University","248",946
+"505","53","California State University – Sacramento","240",946
+"506","54","Cornell University","236",946
+"507","55","College of the Holy Cross","233",946
+"508","56","Bucknell University","225",946
+"509","57","Sacred Heart University","202",946
+"510","58","Fordham University","195",946
+"511","59","Temple University","193",946
+"512","60","Saint Joseph's University","187",946
+"513","60","Drexel University","187",946
+"514","62","Loyola Marymount University","177",946
+"515","63","University of Connecticut","162",946
+"516","64","La Salle University","158",946
+"517","65","West Virginia University","154",946
+"518","66","Duquesne University","148",946
+"519","67","University of Delaware","138",946
+"520","67","Marist College","138",946
+"521","69","University of Portland","135",946
+"522","70","Fairfield University","132",946
+"523","71","Old Dominion University","126",946
+"524","72","Villanova University","124",946
+"525","73","Stetson University","123",946
+"526","74","Lehigh University","120",946
+"527","75","Creighton University","116",946
+"528","75","Eastern Michigan University","116",946
+"529","77","Colgate University","109",946
+"530","78","Saint Mary’s College of California","104",946
+"531","79","Canisius College","84",946
+"532","80","Robert Morris University – Pennsylvania","69",946
+"533","80","George Mason University","69",946
+"534","82","Loyola University Maryland","65",946
+"535","83","Seattle University","64",946
+"536","84","University of Dayton","53",946
+"537","85","Merrimack College","50",946
+"538","86","Iona College","45",946
+"539","87","Drake University","30",946
+"540","88","Santa Clara University","25",946
+"541","89","Manhattan College","5",946
+"542","Rank","School Name","Points",917
+"543","1","University of Texas – Austin","544",917
+"544","2","Stanford University","535",917
+"545","3","University of Tennessee","533",917
+"546","4","Princeton University","529",917
+"547","5","Brown University","520",917
+"548","6","University of California – Berkley","514",917
+"549","7","Yale University","511",917
+"550","8","University of Washington","496",917
+"551","9","University of Michigan","491",917
+"552","10","University of Pennsylvania","486",917
+"553","11","Syracuse University","485",917
+"554","12","Ohio State University","484",917
+"555","13","Rutgers University","473",917
+"556","14","Indiana University","470",917
+"557","15","Duke University","468",917
+"558","16","Harvard-Radcliffe","448",917
+"559","17","University of Virginia","446",917
+"560","18","University of Alabama","436",917
+"561","18","Columbia University","436",917
+"562","20","University of Miami","419",917
+"563","21","Gonzaga University","414",917
+"564","22","University of California – Los Angeles","404",917
+"565","23","Washington State University","402",917
+"566","24","University of Minnesota","398",917
+"567","25","University of Central Florida","397",917
+"568","26","Oregon State University","395",917
+"569","27","Northeastern University","389",917
+"570","28","University of Southern California","385",917
+"571","29","University of Iowa","379",917
+"572","29","Clemson University","379",917
+"573","31","University of Notre Dame","378",917
+"574","32","Boston University","367",917
+"575","33","Dartmouth College","354",917
+"576","34","Massachusetts Institute of Technology","337",917
+"577","35","University of Wisconsin","331",917
+"578","36","University of Rhode Island","330",917
+"579","37","Southern Methodist University","319",917
+"580","38","University of Tulsa","316",917
+"581","39","University of Oklahoma","312",917
+"582","40","Michigan State University","306",917
+"583","41","University of Louisville","296",917
+"584","41","University of Kansas","296",917
+"585","43","Boston College","294",917
+"586","44","George Washington University","292",917
+"587","45","United States Naval Academy","288",917
+"588","46","University of California – San Diego","287",917
+"589","47","University of North Carolina at Chapel Hill","281",917
+"590","48","Kansas State University","259",917
+"591","48","University of San Diego","259",917
+"592","50","Jacksonville University","251",917
+"593","51","University of Massachusetts – Amherst","249",917
+"594","52","Georgetown University","248",917
+"595","53","California State University – Sacramento","240",917
+"596","54","Cornell University","236",917
+"597","55","College of the Holy Cross","233",917
+"598","56","Bucknell University","225",917
+"599","57","Sacred Heart University","202",917
+"600","58","Fordham University","195",917
+"601","59","Temple University","193",917
+"602","60","Saint Joseph's University","187",917
+"603","60","Drexel University","187",917
+"604","62","Loyola Marymount University","177",917
+"605","63","University of Connecticut","162",917
+"606","64","La Salle University","158",917
+"607","65","West Virginia University","154",917
+"608","66","Duquesne University","148",917
+"609","67","University of Delaware","138",917
+"610","67","Marist College","138",917
+"611","69","University of Portland","135",917
+"612","70","Fairfield University","132",917
+"613","71","Old Dominion University","126",917
+"614","72","Villanova University","124",917
+"615","73","Stetson University","123",917
+"616","74","Lehigh University","120",917
+"617","75","Creighton University","116",917
+"618","75","Eastern Michigan University","116",917
+"619","77","Colgate University","109",917
+"620","78","Saint Mary’s College of California","104",917
+"621","79","Canisius College","84",917
+"622","80","Robert Morris University – Pennsylvania","69",917
+"623","80","George Mason University","69",917
+"624","82","Loyola University Maryland","65",917
+"625","83","Seattle University","64",917
+"626","84","University of Dayton","53",917
+"627","85","Merrimack College","50",917
+"628","86","Iona College","45",917
+"629","87","Drake University","30",917
+"630","88","Santa Clara University","25",917
+"631","89","Manhattan College","5",917
+"632","Rank","School Name","Points",909
+"633","1","University of Texas – Austin","544",909
+"634","2","Stanford University","535",909
+"635","3","University of Tennessee","533",909
+"636","4","Princeton University","529",909
+"637","5","Brown University","520",909
+"638","6","University of California – Berkley","514",909
+"639","7","Yale University","511",909
+"640","8","University of Washington","496",909
+"641","9","University of Michigan","491",909
+"642","10","University of Pennsylvania","486",909
+"643","11","Syracuse University","485",909
+"644","12","Ohio State University","484",909
+"645","13","Rutgers University","473",909
+"646","14","Indiana University","470",909
+"647","15","Duke University","468",909
+"648","16","Harvard-Radcliffe","448",909
+"649","17","University of Virginia","446",909
+"650","18","University of Alabama","436",909
+"651","18","Columbia University","436",909
+"652","20","University of Miami","419",909
+"653","21","Gonzaga University","414",909
+"654","22","University of California – Los Angeles","404",909
+"655","23","Washington State University","402",909
+"656","24","University of Minnesota","398",909
+"657","25","University of Central Florida","397",909
+"658","26","Oregon State University","395",909
+"659","27","Northeastern University","389",909
+"660","28","University of Southern California","385",909
+"661","29","University of Iowa","379",909
+"662","29","Clemson University","379",909
+"663","31","University of Notre Dame","378",909
+"664","32","Boston University","367",909
+"665","33","Dartmouth College","354",909
+"666","34","Massachusetts Institute of Technology","337",909
+"667","35","University of Wisconsin","331",909
+"668","36","University of Rhode Island","330",909
+"669","37","Southern Methodist University","319",909
+"670","38","University of Tulsa","316",909
+"671","39","University of Oklahoma","312",909
+"672","40","Michigan State University","306",909
+"673","41","University of Louisville","296",909
+"674","41","University of Kansas","296",909
+"675","43","Boston College","294",909
+"676","44","George Washington University","292",909
+"677","45","United States Naval Academy","288",909
+"678","46","University of California – San Diego","287",909
+"679","47","University of North Carolina at Chapel Hill","281",909
+"680","48","Kansas State University","259",909
+"681","48","University of San Diego","259",909
+"682","50","Jacksonville University","251",909
+"683","51","University of Massachusetts – Amherst","249",909
+"684","52","Georgetown University","248",909
+"685","53","California State University – Sacramento","240",909
+"686","54","Cornell University","236",909
+"687","55","College of the Holy Cross","233",909
+"688","56","Bucknell University","225",909
+"689","57","Sacred Heart University","202",909
+"690","58","Fordham University","195",909
+"691","59","Temple University","193",909
+"692","60","Saint Joseph's University","187",909
+"693","60","Drexel University","187",909
+"694","62","Loyola Marymount University","177",909
+"695","63","University of Connecticut","162",909
+"696","64","La Salle University","158",909
+"697","65","West Virginia University","154",909
+"698","66","Duquesne University","148",909
+"699","67","University of Delaware","138",909
+"700","67","Marist College","138",909
+"701","69","University of Portland","135",909
+"702","70","Fairfield University","132",909
+"703","71","Old Dominion University","126",909
+"704","72","Villanova University","124",909
+"705","73","Stetson University","123",909
+"706","74","Lehigh University","120",909
+"707","75","Creighton University","116",909
+"708","75","Eastern Michigan University","116",909
+"709","77","Colgate University","109",909
+"710","78","Saint Mary’s College of California","104",909
+"711","79","Canisius College","84",909
+"712","80","Robert Morris University – Pennsylvania","69",909
+"713","80","George Mason University","69",909
+"714","82","Loyola University Maryland","65",909
+"715","83","Seattle University","64",909
+"716","84","University of Dayton","53",909
+"717","85","Merrimack College","50",909
+"718","86","Iona College","45",909
+"719","87","Drake University","30",909
+"720","88","Santa Clara University","25",909
+"721","89","Manhattan College","5",909
+"722","Rank","School Name","Points",891
+"723","1","University of Texas – Austin","544",891
+"724","2","Stanford University","535",891
+"725","3","University of Tennessee","533",891
+"726","4","Princeton University","529",891
+"727","5","Brown University","520",891
+"728","6","University of California – Berkley","514",891
+"729","7","Yale University","511",891
+"730","8","University of Washington","496",891
+"731","9","University of Michigan","491",891
+"732","10","University of Pennsylvania","486",891
+"733","11","Syracuse University","485",891
+"734","12","Ohio State University","484",891
+"735","13","Rutgers University","473",891
+"736","14","Indiana University","470",891
+"737","15","Duke University","468",891
+"738","16","Harvard-Radcliffe","448",891
+"739","17","University of Virginia","446",891
+"740","18","University of Alabama","436",891
+"741","18","Columbia University","436",891
+"742","20","University of Miami","419",891
+"743","21","Gonzaga University","414",891
+"744","22","University of California – Los Angeles","404",891
+"745","23","Washington State University","402",891
+"746","24","University of Minnesota","398",891
+"747","25","University of Central Florida","397",891
+"748","26","Oregon State University","395",891
+"749","27","Northeastern University","389",891
+"750","28","University of Southern California","385",891
+"751","29","University of Iowa","379",891
+"752","29","Clemson University","379",891
+"753","31","University of Notre Dame","378",891
+"754","32","Boston University","367",891
+"755","33","Dartmouth College","354",891
+"756","34","Massachusetts Institute of Technology","337",891
+"757","35","University of Wisconsin","331",891
+"758","36","University of Rhode Island","330",891
+"759","37","Southern Methodist University","319",891
+"760","38","University of Tulsa","316",891
+"761","39","University of Oklahoma","312",891
+"762","40","Michigan State University","306",891
+"763","41","University of Louisville","296",891
+"764","41","University of Kansas","296",891
+"765","43","Boston College","294",891
+"766","44","George Washington University","292",891
+"767","45","United States Naval Academy","288",891
+"768","46","University of California – San Diego","287",891
+"769","47","University of North Carolina at Chapel Hill","281",891
+"770","48","Kansas State University","259",891
+"771","48","University of San Diego","259",891
+"772","50","Jacksonville University","251",891
+"773","51","University of Massachusetts – Amherst","249",891
+"774","52","Georgetown University","248",891
+"775","53","California State University – Sacramento","240",891
+"776","54","Cornell University","236",891
+"777","55","College of the Holy Cross","233",891
+"778","56","Bucknell University","225",891
+"779","57","Sacred Heart University","202",891
+"780","58","Fordham University","195",891
+"781","59","Temple University","193",891
+"782","60","Saint Joseph's University","187",891
+"783","60","Drexel University","187",891
+"784","62","Loyola Marymount University","177",891
+"785","63","University of Connecticut","162",891
+"786","64","La Salle University","158",891
+"787","65","West Virginia University","154",891
+"788","66","Duquesne University","148",891
+"789","67","University of Delaware","138",891
+"790","67","Marist College","138",891
+"791","69","University of Portland","135",891
+"792","70","Fairfield University","132",891
+"793","71","Old Dominion University","126",891
+"794","72","Villanova University","124",891
+"795","73","Stetson University","123",891
+"796","74","Lehigh University","120",891
+"797","75","Creighton University","116",891
+"798","75","Eastern Michigan University","116",891
+"799","77","Colgate University","109",891
+"800","78","Saint Mary’s College of California","104",891
+"801","79","Canisius College","84",891
+"802","80","Robert Morris University – Pennsylvania","69",891
+"803","80","George Mason University","69",891
+"804","82","Loyola University Maryland","65",891
+"805","83","Seattle University","64",891
+"806","84","University of Dayton","53",891
+"807","85","Merrimack College","50",891
+"808","86","Iona College","45",891
+"809","87","Drake University","30",891
+"810","88","Santa Clara University","25",891
+"811","89","Manhattan College","5",891
+"812","Rank","School Name","Points",865
+"813","1","University of Texas – Austin","544",865
+"814","2","Stanford University","535",865
+"815","3","University of Tennessee","533",865
+"816","4","Princeton University","529",865
+"817","5","Brown University","520",865
+"818","6","University of California – Berkley","514",865
+"819","7","Yale University","511",865
+"820","8","University of Washington","496",865
+"821","9","University of Michigan","491",865
+"822","10","University of Pennsylvania","486",865
+"823","11","Syracuse University","485",865
+"824","12","Ohio State University","484",865
+"825","13","Rutgers University","473",865
+"826","14","Indiana University","470",865
+"827","15","Duke University","468",865
+"828","16","Harvard-Radcliffe","448",865
+"829","17","University of Virginia","446",865
+"830","18","University of Alabama","436",865
+"831","18","Columbia University","436",865
+"832","20","University of Miami","419",865
+"833","21","Gonzaga University","414",865
+"834","22","University of California – Los Angeles","404",865
+"835","23","Washington State University","402",865
+"836","24","University of Minnesota","398",865
+"837","25","University of Central Florida","397",865
+"838","26","Oregon State University","395",865
+"839","27","Northeastern University","389",865
+"840","28","University of Southern California","385",865
+"841","29","University of Iowa","379",865
+"842","29","Clemson University","379",865
+"843","31","University of Notre Dame","378",865
+"844","32","Boston University","367",865
+"845","33","Dartmouth College","354",865
+"846","34","Massachusetts Institute of Technology","337",865
+"847","35","University of Wisconsin","331",865
+"848","36","University of Rhode Island","330",865
+"849","37","Southern Methodist University","319",865
+"850","38","University of Tulsa","316",865
+"851","39","University of Oklahoma","312",865
+"852","40","Michigan State University","306",865
+"853","41","University of Louisville","296",865
+"854","41","University of Kansas","296",865
+"855","43","Boston College","294",865
+"856","44","George Washington University","292",865
+"857","45","United States Naval Academy","288",865
+"858","46","University of California – San Diego","287",865
+"859","47","University of North Carolina at Chapel Hill","281",865
+"860","48","Kansas State University","259",865
+"861","48","University of San Diego","259",865
+"862","50","Jacksonville University","251",865
+"863","51","University of Massachusetts – Amherst","249",865
+"864","52","Georgetown University","248",865
+"865","53","California State University – Sacramento","240",865
+"866","54","Cornell University","236",865
+"867","55","College of the Holy Cross","233",865
+"868","56","Bucknell University","225",865
+"869","57","Sacred Heart University","202",865
+"870","58","Fordham University","195",865
+"871","59","Temple University","193",865
+"872","60","Saint Joseph's University","187",865
+"873","60","Drexel University","187",865
+"874","62","Loyola Marymount University","177",865
+"875","63","University of Connecticut","162",865
+"876","64","La Salle University","158",865
+"877","65","West Virginia University","154",865
+"878","66","Duquesne University","148",865
+"879","67","University of Delaware","138",865
+"880","67","Marist College","138",865
+"881","69","University of Portland","135",865
+"882","70","Fairfield University","132",865
+"883","71","Old Dominion University","126",865
+"884","72","Villanova University","124",865
+"885","73","Stetson University","123",865
+"886","74","Lehigh University","120",865
+"887","75","Creighton University","116",865
+"888","75","Eastern Michigan University","116",865
+"889","77","Colgate University","109",865
+"890","78","Saint Mary’s College of California","104",865
+"891","79","Canisius College","84",865
+"892","80","Robert Morris University – Pennsylvania","69",865
+"893","80","George Mason University","69",865
+"894","82","Loyola University Maryland","65",865
+"895","83","Seattle University","64",865
+"896","84","University of Dayton","53",865
+"897","85","Merrimack College","50",865
+"898","86","Iona College","45",865
+"899","87","Drake University","30",865
+"900","88","Santa Clara University","25",865
+"901","89","Manhattan College","5",865
+"902","Rank","School Name","Points",861
+"903","1","University of Texas – Austin","544",861
+"904","2","Stanford University","535",861
+"905","3","University of Tennessee","533",861
+"906","4","Princeton University","529",861
+"907","5","Brown University","520",861
+"908","6","University of California – Berkley","514",861
+"909","7","Yale University","511",861
+"910","8","University of Washington","496",861
+"911","9","University of Michigan","491",861
+"912","10","University of Pennsylvania","486",861
+"913","11","Syracuse University","485",861
+"914","12","Ohio State University","484",861
+"915","13","Rutgers University","473",861
+"916","14","Indiana University","470",861
+"917","15","Duke University","468",861
+"918","16","Harvard-Radcliffe","448",861
+"919","17","University of Virginia","446",861
+"920","18","University of Alabama","436",861
+"921","18","Columbia University","436",861
+"922","20","University of Miami","419",861
+"923","21","Gonzaga University","414",861
+"924","22","University of California – Los Angeles","404",861
+"925","23","Washington State University","402",861
+"926","24","University of Minnesota","398",861
+"927","25","University of Central Florida","397",861
+"928","26","Oregon State University","395",861
+"929","27","Northeastern University","389",861
+"930","28","University of Southern California","385",861
+"931","29","University of Iowa","379",861
+"932","29","Clemson University","379",861
+"933","31","University of Notre Dame","378",861
+"934","32","Boston University","367",861
+"935","33","Dartmouth College","354",861
+"936","34","Massachusetts Institute of Technology","337",861
+"937","35","University of Wisconsin","331",861
+"938","36","University of Rhode Island","330",861
+"939","37","Southern Methodist University","319",861
+"940","38","University of Tulsa","316",861
+"941","39","University of Oklahoma","312",861
+"942","40","Michigan State University","306",861
+"943","41","University of Louisville","296",861
+"944","41","University of Kansas","296",861
+"945","43","Boston College","294",861
+"946","44","George Washington University","292",861
+"947","45","United States Naval Academy","288",861
+"948","46","University of California – San Diego","287",861
+"949","47","University of North Carolina at Chapel Hill","281",861
+"950","48","Kansas State University","259",861
+"951","48","University of San Diego","259",861
+"952","50","Jacksonville University","251",861
+"953","51","University of Massachusetts – Amherst","249",861
+"954","52","Georgetown University","248",861
+"955","53","California State University – Sacramento","240",861
+"956","54","Cornell University","236",861
+"957","55","College of the Holy Cross","233",861
+"958","56","Bucknell University","225",861
+"959","57","Sacred Heart University","202",861
+"960","58","Fordham University","195",861
+"961","59","Temple University","193",861
+"962","60","Saint Joseph's University","187",861
+"963","60","Drexel University","187",861
+"964","62","Loyola Marymount University","177",861
+"965","63","University of Connecticut","162",861
+"966","64","La Salle University","158",861
+"967","65","West Virginia University","154",861
+"968","66","Duquesne University","148",861
+"969","67","University of Delaware","138",861
+"970","67","Marist College","138",861
+"971","69","University of Portland","135",861
+"972","70","Fairfield University","132",861
+"973","71","Old Dominion University","126",861
+"974","72","Villanova University","124",861
+"975","73","Stetson University","123",861
+"976","74","Lehigh University","120",861
+"977","75","Creighton University","116",861
+"978","75","Eastern Michigan University","116",861
+"979","77","Colgate University","109",861
+"980","78","Saint Mary’s College of California","104",861
+"981","79","Canisius College","84",861
+"982","80","Robert Morris University – Pennsylvania","69",861
+"983","80","George Mason University","69",861
+"984","82","Loyola University Maryland","65",861
+"985","83","Seattle University","64",861
+"986","84","University of Dayton","53",861
+"987","85","Merrimack College","50",861
+"988","86","Iona College","45",861
+"989","87","Drake University","30",861
+"990","88","Santa Clara University","25",861
+"991","89","Manhattan College","5",861
+"992","Rank","School Name","Points",858
+"993","1","University of Texas – Austin","544",858
+"994","2","Stanford University","535",858
+"995","3","University of Tennessee","533",858
+"996","4","Princeton University","529",858
+"997","5","Brown University","520",858
+"998","6","University of California – Berkley","514",858
+"999","7","Yale University","511",858
+"1000","8","University of Washington","496",858
+"1001","9","University of Michigan","491",858
+"1002","10","University of Pennsylvania","486",858
+"1003","11","Syracuse University","485",858
+"1004","12","Ohio State University","484",858
+"1005","13","Rutgers University","473",858
+"1006","14","Indiana University","470",858
+"1007","15","Duke University","468",858
+"1008","16","Harvard-Radcliffe","448",858
+"1009","17","University of Virginia","446",858
+"1010","18","University of Alabama","436",858
+"1011","18","Columbia University","436",858
+"1012","20","University of Miami","419",858
+"1013","21","Gonzaga University","414",858
+"1014","22","University of California – Los Angeles","404",858
+"1015","23","Washington State University","402",858
+"1016","24","University of Minnesota","398",858
+"1017","25","University of Central Florida","397",858
+"1018","26","Oregon State University","395",858
+"1019","27","Northeastern University","389",858
+"1020","28","University of Southern California","385",858
+"1021","29","University of Iowa","379",858
+"1022","29","Clemson University","379",858
+"1023","31","University of Notre Dame","378",858
+"1024","32","Boston University","367",858
+"1025","33","Dartmouth College","354",858
+"1026","34","Massachusetts Institute of Technology","337",858
+"1027","35","University of Wisconsin","331",858
+"1028","36","University of Rhode Island","330",858
+"1029","37","Southern Methodist University","319",858
+"1030","38","University of Tulsa","316",858
+"1031","39","University of Oklahoma","312",858
+"1032","40","Michigan State University","306",858
+"1033","41","University of Louisville","296",858
+"1034","41","University of Kansas","296",858
+"1035","43","Boston College","294",858
+"1036","44","George Washington University","292",858
+"1037","45","United States Naval Academy","288",858
+"1038","46","University of California – San Diego","287",858
+"1039","47","University of North Carolina at Chapel Hill","281",858
+"1040","48","Kansas State University","259",858
+"1041","48","University of San Diego","259",858
+"1042","50","Jacksonville University","251",858
+"1043","51","University of Massachusetts – Amherst","249",858
+"1044","52","Georgetown University","248",858
+"1045","53","California State University – Sacramento","240",858
+"1046","54","Cornell University","236",858
+"1047","55","College of the Holy Cross","233",858
+"1048","56","Bucknell University","225",858
+"1049","57","Sacred Heart University","202",858
+"1050","58","Fordham University","195",858
+"1051","59","Temple University","193",858
+"1052","60","Saint Joseph's University","187",858
+"1053","60","Drexel University","187",858
+"1054","62","Loyola Marymount University","177",858
+"1055","63","University of Connecticut","162",858
+"1056","64","La Salle University","158",858
+"1057","65","West Virginia University","154",858
+"1058","66","Duquesne University","148",858
+"1059","67","University of Delaware","138",858
+"1060","67","Marist College","138",858
+"1061","69","University of Portland","135",858
+"1062","70","Fairfield University","132",858
+"1063","71","Old Dominion University","126",858
+"1064","72","Villanova University","124",858
+"1065","73","Stetson University","123",858
+"1066","74","Lehigh University","120",858
+"1067","75","Creighton University","116",858
+"1068","75","Eastern Michigan University","116",858
+"1069","77","Colgate University","109",858
+"1070","78","Saint Mary’s College of California","104",858
+"1071","79","Canisius College","84",858
+"1072","80","Robert Morris University – Pennsylvania","69",858
+"1073","80","George Mason University","69",858
+"1074","82","Loyola University Maryland","65",858
+"1075","83","Seattle University","64",858
+"1076","84","University of Dayton","53",858
+"1077","85","Merrimack College","50",858
+"1078","86","Iona College","45",858
+"1079","87","Drake University","30",858
+"1080","88","Santa Clara University","25",858
+"1081","89","Manhattan College","5",858
+"1082","Rank","School Name","Points",845
+"1083","1","University of Texas – Austin","544",845
+"1084","2","Stanford University","535",845
+"1085","3","University of Tennessee","533",845
+"1086","4","Princeton University","529",845
+"1087","5","Brown University","520",845
+"1088","6","University of California – Berkley","514",845
+"1089","7","Yale University","511",845
+"1090","8","University of Washington","496",845
+"1091","9","University of Michigan","491",845
+"1092","10","University of Pennsylvania","486",845
+"1093","11","Syracuse University","485",845
+"1094","12","Ohio State University","484",845
+"1095","13","Rutgers University","473",845
+"1096","14","Indiana University","470",845
+"1097","15","Duke University","468",845
+"1098","16","Harvard-Radcliffe","448",845
+"1099","17","University of Virginia","446",845
+"1100","18","University of Alabama","436",845
+"1101","18","Columbia University","436",845
+"1102","20","University of Miami","419",845
+"1103","21","Gonzaga University","414",845
+"1104","22","University of California – Los Angeles","404",845
+"1105","23","Washington State University","402",845
+"1106","24","University of Minnesota","398",845
+"1107","25","University of Central Florida","397",845
+"1108","26","Oregon State University","395",845
+"1109","27","Northeastern University","389",845
+"1110","28","University of Southern California","385",845
+"1111","29","University of Iowa","379",845
+"1112","29","Clemson University","379",845
+"1113","31","University of Notre Dame","378",845
+"1114","32","Boston University","367",845
+"1115","33","Dartmouth College","354",845
+"1116","34","Massachusetts Institute of Technology","337",845
+"1117","35","University of Wisconsin","331",845
+"1118","36","University of Rhode Island","330",845
+"1119","37","Southern Methodist University","319",845
+"1120","38","University of Tulsa","316",845
+"1121","39","University of Oklahoma","312",845
+"1122","40","Michigan State University","306",845
+"1123","41","University of Louisville","296",845
+"1124","41","University of Kansas","296",845
+"1125","43","Boston College","294",845
+"1126","44","George Washington University","292",845
+"1127","45","United States Naval Academy","288",845
+"1128","46","University of California – San Diego","287",845
+"1129","47","University of North Carolina at Chapel Hill","281",845
+"1130","48","Kansas State University","259",845
+"1131","48","University of San Diego","259",845
+"1132","50","Jacksonville University","251",845
+"1133","51","University of Massachusetts – Amherst","249",845
+"1134","52","Georgetown University","248",845
+"1135","53","California State University – Sacramento","240",845
+"1136","54","Cornell University","236",845
+"1137","55","College of the Holy Cross","233",845
+"1138","56","Bucknell University","225",845
+"1139","57","Sacred Heart University","202",845
+"1140","58","Fordham University","195",845
+"1141","59","Temple University","193",845
+"1142","60","Saint Joseph's University","187",845
+"1143","60","Drexel University","187",845
+"1144","62","Loyola Marymount University","177",845
+"1145","63","University of Connecticut","162",845
+"1146","64","La Salle University","158",845
+"1147","65","West Virginia University","154",845
+"1148","66","Duquesne University","148",845
+"1149","67","University of Delaware","138",845
+"1150","67","Marist College","138",845
+"1151","69","University of Portland","135",845
+"1152","70","Fairfield University","132",845
+"1153","71","Old Dominion University","126",845
+"1154","72","Villanova University","124",845
+"1155","73","Stetson University","123",845
+"1156","74","Lehigh University","120",845
+"1157","75","Creighton University","116",845
+"1158","75","Eastern Michigan University","116",845
+"1159","77","Colgate University","109",845
+"1160","78","Saint Mary’s College of California","104",845
+"1161","79","Canisius College","84",845
+"1162","80","Robert Morris University – Pennsylvania","69",845
+"1163","80","George Mason University","69",845
+"1164","82","Loyola University Maryland","65",845
+"1165","83","Seattle University","64",845
+"1166","84","University of Dayton","53",845
+"1167","85","Merrimack College","50",845
+"1168","86","Iona College","45",845
+"1169","87","Drake University","30",845
+"1170","88","Santa Clara University","25",845
+"1171","89","Manhattan College","5",845
+"1172","Rank","School Name","Points",839
+"1173","1","University of Texas – Austin","544",839
+"1174","2","Stanford University","535",839
+"1175","3","University of Tennessee","533",839
+"1176","4","Princeton University","529",839
+"1177","5","Brown University","520",839
+"1178","6","University of California – Berkley","514",839
+"1179","7","Yale University","511",839
+"1180","8","University of Washington","496",839
+"1181","9","University of Michigan","491",839
+"1182","10","University of Pennsylvania","486",839
+"1183","11","Syracuse University","485",839
+"1184","12","Ohio State University","484",839
+"1185","13","Rutgers University","473",839
+"1186","14","Indiana University","470",839
+"1187","15","Duke University","468",839
+"1188","16","Harvard-Radcliffe","448",839
+"1189","17","University of Virginia","446",839
+"1190","18","University of Alabama","436",839
+"1191","18","Columbia University","436",839
+"1192","20","University of Miami","419",839
+"1193","21","Gonzaga University","414",839
+"1194","22","University of California – Los Angeles","404",839
+"1195","23","Washington State University","402",839
+"1196","24","University of Minnesota","398",839
+"1197","25","University of Central Florida","397",839
+"1198","26","Oregon State University","395",839
+"1199","27","Northeastern University","389",839
+"1200","28","University of Southern California","385",839
+"1201","29","University of Iowa","379",839
+"1202","29","Clemson University","379",839
+"1203","31","University of Notre Dame","378",839
+"1204","32","Boston University","367",839
+"1205","33","Dartmouth College","354",839
+"1206","34","Massachusetts Institute of Technology","337",839
+"1207","35","University of Wisconsin","331",839
+"1208","36","University of Rhode Island","330",839
+"1209","37","Southern Methodist University","319",839
+"1210","38","University of Tulsa","316",839
+"1211","39","University of Oklahoma","312",839
+"1212","40","Michigan State University","306",839
+"1213","41","University of Louisville","296",839
+"1214","41","University of Kansas","296",839
+"1215","43","Boston College","294",839
+"1216","44","George Washington University","292",839
+"1217","45","United States Naval Academy","288",839
+"1218","46","University of California – San Diego","287",839
+"1219","47","University of North Carolina at Chapel Hill","281",839
+"1220","48","Kansas State University","259",839
+"1221","48","University of San Diego","259",839
+"1222","50","Jacksonville University","251",839
+"1223","51","University of Massachusetts – Amherst","249",839
+"1224","52","Georgetown University","248",839
+"1225","53","California State University – Sacramento","240",839
+"1226","54","Cornell University","236",839
+"1227","55","College of the Holy Cross","233",839
+"1228","56","Bucknell University","225",839
+"1229","57","Sacred Heart University","202",839
+"1230","58","Fordham University","195",839
+"1231","59","Temple University","193",839
+"1232","60","Saint Joseph's University","187",839
+"1233","60","Drexel University","187",839
+"1234","62","Loyola Marymount University","177",839
+"1235","63","University of Connecticut","162",839
+"1236","64","La Salle University","158",839
+"1237","65","West Virginia University","154",839
+"1238","66","Duquesne University","148",839
+"1239","67","University of Delaware","138",839
+"1240","67","Marist College","138",839
+"1241","69","University of Portland","135",839
+"1242","70","Fairfield University","132",839
+"1243","71","Old Dominion University","126",839
+"1244","72","Villanova University","124",839
+"1245","73","Stetson University","123",839
+"1246","74","Lehigh University","120",839
+"1247","75","Creighton University","116",839
+"1248","75","Eastern Michigan University","116",839
+"1249","77","Colgate University","109",839
+"1250","78","Saint Mary’s College of California","104",839
+"1251","79","Canisius College","84",839
+"1252","80","Robert Morris University – Pennsylvania","69",839
+"1253","80","George Mason University","69",839
+"1254","82","Loyola University Maryland","65",839
+"1255","83","Seattle University","64",839
+"1256","84","University of Dayton","53",839
+"1257","85","Merrimack College","50",839
+"1258","86","Iona College","45",839
+"1259","87","Drake University","30",839
+"1260","88","Santa Clara University","25",839
+"1261","89","Manhattan College","5",839
